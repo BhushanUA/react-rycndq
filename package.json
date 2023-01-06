@@ -1,0 +1,23 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "invariant": "2.2.4",
+    "react": "16.10.2",
+    "react-datetime-picker": "4.1.1",
+    "react-dnd": "9.4.0",
+    "react-dnd-html5-backend": "9.4.0",
+    "react-dom": "16.10.2",
+    "react-draggable": "^4.4.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
